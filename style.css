@@ -1,0 +1,264 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/*GENERAL STYLES*/
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+	background: url("images/galaxy-wallpaper.jpg") no-repeat center center fixed; 
+	color: #fff;
+	font-family: 'Space Mono', monospace;
+	margin: 0;
+	padding: 0;
+	text-shadow: 2px 1px #999;
+	z-index: -1;
+}
+
+ h3 {
+		font-size: 1.875em;
+		text-align: center;
+		text-shadow: 2px 2px 2px #F0F0F5;
+	}
+
+	a {
+		text-decoration: none;
+		text-shadow: 2px 1px 1px #fff;
+		color: #999;
+
+	}
+
+	a:hover, 
+	a:active {
+		color: green;
+		font-size: 1.2em;
+	}
+
+	a:visited {
+		color: #EBA62F;
+	}
+
+	/*SECTIONS*/
+
+
+	.page-wrapper {
+		width: 90%;
+		padding:0;
+		min-height: 100%;
+		margin: auto;
+	
+	}
+
+
+	.intro header {
+		display: flex;
+		margin: 2em 15em 5em 15em; 		
+		text-align: center;
+		box-shadow: 15px 15px 15px 15px white;
+		border-radius: 100%;
+		
+	}
+
+	.intro header h1 {
+		margin: 1em auto;
+		font-size: 6em;
+		text-transform: uppercase;
+		text-shadow: 4px 4px 4px #F0F0F5;
+		
+	}
+
+	.intro header h2 {
+		margin: 6em auto;
+		font-size: 2em;
+		text-transform: uppercase;
+		text-shadow: 2px 2px 2px #F0F0F5;
+	}
+
+	.summary > p {
+		text-align: center;
+		font-size: .8em;
+		margin: auto 20%;
+		line-height: 1.2em;
+	}
+
+	.preamble {
+		margin-top: 3%;
+		float: left;
+    	width: 45%;
+	}
+
+	
+
+	.explanation {
+		margin-left: 45%;
+    	overflow: auto;
+	}
+
+	.participation {
+		float: left;
+		margin: auto 15%;
+	}
+
+	.benefits {
+		overflow: auto;
+		float: left;
+		width: 40%;
+	}
+
+	.requirements {
+		margin-top: 20%;
+		width: 45%;
+    	float: left;
+	}
+
+	footer {
+		text-align: center;		
+	}
+
+	footer a {
+		display: inline-flex;
+		font-size: 2.2em;
+		padding: 1%;
+		margin: 1% 1%;
+		border: 1px solid #fff;
+		background-color: #fff;
+	}
+
+	footer a:hover,
+	footer a:active {
+		font-size: 2.5em;
+	}
+
+	footer a:visited {
+		color: #EBA62F;
+	}
+
+	.sidebar {
+		float: left;
+		text-align: center;
+	}
+
+	.wrapper li {
+		list-style-type: none;
+		display: inline-block;
+	}
+
+	h3.select {
+		margin: auto;
+	}
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
